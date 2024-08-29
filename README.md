@@ -1,4 +1,4 @@
-<div align="center">
+
   
 # 💫 About Me
 
@@ -8,7 +8,7 @@
 - 📚 Currently sharpening my skills in web security, ethical hacking, and red team operations.
 - 🌱 Big believer in continuous learning and collaborating with others to keep up with the ever-changing cyber landscape.
 - 🤝 Let's connect, share ideas, and make the digital world safer together!
-
+<div align="center">
 ## 🌐 Connect with Me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_tkflash) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_junaidarshad) 
