@@ -1,14 +1,15 @@
-
-  
+ 
 # 💫 About Me
 
-- 👋 Hey there! I'm **Junaid Arshad Malik**, a passionate cybersecurity enthusiast.
+- 👋 Hey there! I'm **Junaid Arshad Malik** aka **tKFlash** a passionate cybersecurity enthusiast.
 - 🔐 Love diving into the depths of cybersecurity, especially ethical hacking and penetration testing.
 - 🛠️ Always working to improve security postures and tackle new challenges.
 - 📚 Currently sharpening my skills in web security, ethical hacking, and red team operations.
 - 🌱 Big believer in continuous learning and collaborating with others to keep up with the ever-changing cyber landscape.
 - 🤝 Let's connect, share ideas, and make the digital world safer together!
+
 <div align="center">
+  
 ## 🌐 Connect with Me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_tkflash) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_junaidarshad) 
@@ -41,4 +42,4 @@
 [![](https://visitcount.itsvg.in/api?id=tKFlash&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
