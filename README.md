@@ -1,7 +1,7 @@
  
 # 💫 About Me
 
-- 👋 Hey there! I'm **Junaid Arshad Malik** aka **R0GR3X** a passionate cybersecurity enthusiast.
+- 👋 Hey there! I'm **Junaid Arshad Malik** aka **SPECT3R** a passionate cybersecurity enthusiast.
 - 🔐 Love diving into the depths of cybersecurity, especially ethical hacking and penetration testing.
 - 🛠️ Always working to improve security postures and tackle new challenges.
 - 📚 Currently sharpening my skills in web security, ethical hacking, and red team operations.
