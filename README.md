@@ -13,6 +13,7 @@
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 # 📊 TryHackMe:
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/2476676.png)](https://tryhackme.com/p/2476676)
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2476676" style='border:none;'></iframe>
 
 # 📊 GitHub Stats:
