@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=36BCF7&vCenter=true&multiline=true&width=700&height=80&lines=%F0%9F%91%8B+Hey%2C+I'm+Junaid+Arshad+Malik+aka+SPECT3R;Cybersecurity+Enthusiast+%7C+Digital+Investigator+%7C+CTF+Player" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=36BCF7&vCenter=true&multiline=true&width=700&height=80&lines=%F0%9F%91%8B+Hey%2C+I'm+SPECT3R;Cybersecurity+Expert+%7C+Digital+Investigator+%7C+CTF+Player" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -47,7 +47,7 @@ Hacker by passion, coder by precision.
 ### 🔌 Connect with Me
 <p align="center">
   <a href="https://twitter.com/_junaidarshad"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/junaid-arshad-malik-644b11291/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/junaid-arshad-malik-644b11291"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/_junaidarshad"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
@@ -64,7 +64,7 @@ Hacker by passion, coder by precision.
 
 ### ⚡ GitHub Contribution Snake
 <p align="center">
-  <img src="https://github.com/spect3r0/spect3r0/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/spect3r0/spect3r0/blob/output/dist/github-contribution-grid-snake.svg" />
 </p>
 
 ### 💬 Terminal Quote of the Day
@@ -81,39 +81,7 @@ root@SPECT3R:~# curl -s https://spect3r.netlify.app | grep "exploit" || echo "Ex
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=F7C620&center=true&vCenter=true&width=435&lines=Code+is+my+weapon.;The+Internet+is+my+playground.;Spect3r+was+here+%E2%9C%94" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=F7C620¢er=true&vCenter=true&width=435&lines=Code+is+my+weapon.;The+Internet+is+my+playground.;Spect3r+was+here+%E2%9C%94" />
 </p>
-```
 
----
 
-### Snake Animation Workflow (snake.yml)
-Create a file named `.github/workflows/snake.yml` in your `spect3r0/spect3r0` repository and copy-paste the following:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
-  workflow_dispatch: # Allows manual triggering
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: spect3r0
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
