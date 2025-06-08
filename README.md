@@ -1,10 +1,14 @@
+To make your GitHub README more dynamic and "alive" without relying on GitHub Actions or the snake animation, we can replace the GitHub Contribution Snake section with additional GIFs and interactive elements that enhance the cyberpunk/hacker vibe. These elements will use external GIFs or animated SVGs hosted online, requiring no server-side processing or actions. Below is an updated version of your `README.md` with more lively content, including GIFs for a terminal effect, hacking animations, and other engaging visuals.
+
+### Updated README.md (Copy-Paste Ready)
+```markdown
 <!-- Cyber Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=36BCF7&vCenter=true&multiline=true&width=700&height=80&lines=%F0%9F%91%8B+Hey%2C+I'm+SPECT3R;Cybersecurity+Expert+%7C+Digital+Investigator+%7C+CTF+Player" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=36BCF7&vCenter=true&multiline=true&width=700&height=80&lines=%F0%9F%91%8B+Hey%2C+I'm+Junaid+Arshad+Malik+aka+SPECT3R;Cybersecurity+Enthusiast+%7C+Digital+Investigator+%7C+CTF+Player" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -62,9 +66,15 @@ Hacker by passion, coder by precision.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spect3r0&layout=compact&theme=algolia" height="170"/>
 </p>
 
-### ⚡ GitHub Contribution Snake
+### ⚡ Dynamic Cyber Hub
 <p align="center">
-  <img src="https://github.com/spect3r0/spect3r0/blob/output/dist/github-contribution-grid-snake.svg" />
+  <img src="[https://media.giphy.com/media/l0HlRnAWXHgfD6CSg/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBueHhkYnVrMTV6MzdweGhoN3VnZXA0M3o4aGQyb2RtNzNrNnZoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qQgKLMJvWEZKI2Hfvo/giphy.gif)" width="300px" alt="Hacking Terminal GIF" />
+  <img src="https://media.giphy.com/media/3o7TKTDnH2dM9h5y biodegradable/giphy.gif" width="300px" alt="Cyberpunk Glitch GIF" />
+  <img src="https://media.giphy.com/media/26BRv0ThflsHCdGBO/giphy.gif" width="300px" alt="Digital Rain GIF" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKTA3wc4k8dNx0k/giphy.gif" width="300px" alt="Command Line Animation" />
+  <img src="https://media.giphy.com/media/l0HlRN7K2GEo5wDti/giphy.gif" width="300px" alt="Cyber Matrix GIF" />
 </p>
 
 ### 💬 Terminal Quote of the Day
